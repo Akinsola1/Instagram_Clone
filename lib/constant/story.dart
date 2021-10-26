@@ -1,7 +1,7 @@
 // user prfile
 String profile =
     "https://images.unsplash.com/photo-1599842057874-37393e9342df?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGdpcmx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60";
-String name = "panhchaneath_ung";
+String name = "Your Story";
 
 // stories
 List stories = [
@@ -9,7 +9,7 @@ List stories = [
     "id": 1,
     "img":
         "https://images.unsplash.com/photo-1503185912284-5271ff81b9a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2lybHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "sonitakhoun"
+    "name": "Your Story"
   },
   {
     "id": 2,

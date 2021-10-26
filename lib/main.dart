@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:myinstagram_clone/screens/home_page.dart';
+import 'package:myinstagram_clone/widget/base_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
         
         primarySwatch: Colors.blue,
       ),
-      home: const home_page(),
+      home: const base_screen(),
     );
   }
 }

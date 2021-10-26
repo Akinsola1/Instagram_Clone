@@ -263,7 +263,7 @@ class _postState extends State<_post> {
             IconButton(
                 onPressed: () {},
                 icon: const Icon(
-                  Icons.menu,
+                  LineIcons.verticalEllipsis,
                   color: Colors.black,
                 )),
           ],
