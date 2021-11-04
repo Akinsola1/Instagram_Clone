@@ -34,9 +34,10 @@ List searchImages = [
    "https://i.pinimg.com/236x/d2/22/66/d22266f0ce0c918d1f9a0de253074341.jpg",
    "https://i.pinimg.com/236x/fd/c9/05/fdc905b1fa8492a6079b75deed52b82f.jpg",
    "https://i.pinimg.com/236x/9f/7e/a2/9f7ea289e14d348b6212de8ade1a083a.jpg",
-   
+   "https://i.pinimg.com/236x/88/ce/b1/88ceb1ec10381a60178d81aea064103a.jpg",
+   "https://i.pinimg.com/236x/a2/c9/f2/a2c9f26c6f82181ca9390f0d78e7d23f.jpg",
+];
 
-
-
-
+List exploreVideos = [
+  
 ];
